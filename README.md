@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Anurag Bhandari.
-- 👀 I’m interested in Python and ML.
-- 🌱 I’m currently learning Python(Intermediate lvl).
+- 👀 I’m interested in Machine Learning.
+- 🌱 I’m currently learning ML Algos(beginner lvl).
 - 💞️ I’m looking to collaborate on ML and Python related Projects.
 - 📫 How to reach me - bhandari2003anurag@gmail.com
 
