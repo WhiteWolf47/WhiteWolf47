@@ -1,8 +1,4 @@
-- 👋 Hi, I'm Anurag Bhandari.
-- 👀 I’m interested in Machine Learning.
-- 🌱 I’m currently learning ML Algos(beginner lvl).
-- 💞️ I’m looking to collaborate on ML and Python related Projects.
-- 📫 How to reach me - bhandari2003anurag@gmail.com
+- A AI/ML explorer who is on a adventurous journey to explore this Amazing Ocean of Tech. 
 
 <!---
 WhiteWolf47/WhiteWolf47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
